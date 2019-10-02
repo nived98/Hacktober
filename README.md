@@ -1,3 +1,2 @@
 # Hacktober
-
-[ajayadav1511](https://github.com/ajayadav1511)
+- [Rohit Sheroan](https://github.com/rohit0128)
